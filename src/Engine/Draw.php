@@ -8,6 +8,8 @@
 
 namespace Ali\Lamsa\Engine;
 
+use Ali\Lamsa\Interfaces\Shape;
+use Ali\Lamsa\Traits\Output;
 
 class Draw
 {

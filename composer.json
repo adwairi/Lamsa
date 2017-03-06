@@ -18,6 +18,5 @@
             "Ali\\Tests\\": "tests"
         }
     },
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "dev"
 }
