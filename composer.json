@@ -1,0 +1,23 @@
+{
+    "name": "ali/lamsa",
+    "description": "Lamsa Code Test",
+    "type": "project",
+    "license": "MIT",
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    },
+    "authors": [
+        {
+            "name": "ali",
+            "email": "adwairi88@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ali\\Lamsa\\": "src",
+            "Ali\\Tests\\": "tests"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
